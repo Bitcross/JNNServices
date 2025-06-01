@@ -12,9 +12,8 @@
 		color: rgba(255, 255, 255, 1.0) !important;
 	}
 
-	.navbar-brand {
-		color: $primary;
-		font-style: italic;
+	.logo {
+		max-height: 50px;
 	}
 }
 
